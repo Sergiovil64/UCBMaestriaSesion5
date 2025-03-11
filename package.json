@@ -1,0 +1,23 @@
+{
+  "name": "ucbmaestriasesion5",
+  "version": "1.0.0",
+  "description": "Trabajo colaborativo en clase",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergiovil64/UCBMaestriaSesion5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergiovil64/UCBMaestriaSesion5/issues"
+  },
+  "homepage": "https://github.com/Sergiovil64/UCBMaestriaSesion5#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
